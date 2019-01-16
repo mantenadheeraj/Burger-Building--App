@@ -1,4 +1,6 @@
 # Nisum-Burger-Building-App
+Burger building app using react and redux for state management 
+
 [![Build status](https://api.travis-ci.org/Polymer/pwa-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/pwa-starter-kit)
 > ## 🛠 Status: In Development
 
