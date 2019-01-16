@@ -14,8 +14,6 @@ Below are instructions for setting up project development.
 
 ## Browser Support
 
-Nisum Ehour PWA  officially support the last two versions of every major browser :
-
 - Chrome
 - Safari
 - Firefox
